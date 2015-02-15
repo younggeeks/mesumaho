@@ -18,7 +18,7 @@ Route::get('/', function()
 	return View::make('public.homepage');
 });
 
-//Now making pages routes
+//Now making pages routes   
 Route::get('about',array(
 	'as'=>'about',
 	'uses'=>'PagesController@about'
