@@ -33,7 +33,7 @@
         <div class="container">
             <div style="padding-top:30px">
                 <div class="alert well">
-                    <h3>Hotel Overview</h3>
+                    <h3>Hotel Overview   </h3>
                     <p align="justify">
                         Mesuma Hotel is located in the heart of the Dar es Salaam city in an extremely characteristic, quite and lively area within short drive distance to all sites and is surrounded by the extraordinary beauty of beaches, buildings and shops.
                         On entering this charming hotel in Dar es Salaam, you will immediately sense its special intimate atmosphere that makes you feel like being in your own Dar es Salaam home.  Each detail has been passionately chosen and each room deserves a visit. Mesuma Hotel style mixes beautiful two restaurants, two conference rooms, two elevators and a function hall.
